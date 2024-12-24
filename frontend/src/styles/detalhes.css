@@ -1,0 +1,7 @@
+.detail{
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
